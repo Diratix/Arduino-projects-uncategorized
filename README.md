@@ -1,2 +1,2 @@
 # Arduino-projects-uncategorized
-Chwilowu upload plików
+chwilowy upload projektów na potrzeby "testu"
